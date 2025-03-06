@@ -14,7 +14,7 @@ Esta API foi desenvolvida utilizando **Flask** e **SQLAlchemy** para gerenciar e
 ## 🚀 Como Executar o Projeto
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/VassaloSama/System-School.git
 cd nome-do-repo
 ```
 
